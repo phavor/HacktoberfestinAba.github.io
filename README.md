@@ -1,14 +1,65 @@
-# HacktoberfestinAba.github.io
+# Hacktoberfest in Aba
 
-This Hacktoberfest in Aba webpage is hosted on GitHub Pages and the live version can be accessed [here](https://HacktoberfestinAba.github.io).
+![Hacktoberfest Logo](img/hacktoberfest.png)
+This repository houses the codebase for the Hacktoberfest in Aba website hosted on GitHub Pages. The live version can be accessed [here](https://HacktoberfestinAba.github.io). More about GitHub Pages: https://pages.github.com/
 
-More about GitHub Pages: https://pages.github.com/
+## 💡 What Is Hacktoberfest
+
+Hacktoberfest — brought to you by DigitalOcean in partnership with GitHub and Twilio — is a month-long celebration of open source software. Maintainers are invited to guide would-be contributors towards resolving issues that will help move the project forward, and contributors get the opportunity to give back to both projects they like, and ones they've just discovered. No contribution is too small — bug fixes and documentation updates are valid ways of participating.
+
+Celebrated every month of October based on the German festivity Oktoberfest, the main purpose of this event is to stimulate open source contributions on Github by rewarding users that participate in making at least 5 Pull Requests with a T-Shirt.
+
+### 😄 Participation Details
+
+Hacktoberfest is open to everyone in our global community. Whether you’re a seasoned contributor or looking for projects to contribute to for the first time, you’re welcome to participate.
+Pull requests can be made in any GitHub-hosted repositories/projects. As long as the project is public and GitHub-hosted, your PRs will count towards your participation
+You can sign up anytime between October 1 and October 31. Just be sure to sign up on the official Hacktoberfest website for your PRs to count.
+
+### ❇️❇️❇️ Participation Rules
+
+To get a shirt, you must make five pull requests (PRs) between October 1–31 in any timezone. PRs can be to any public repo on GitHub, not just the ones highlighted. The PR must contain commits you made yourself. PRs reported by maintainers as spam or that are automated will be marked as invalid and won’t count towards the shirt. This year, the first 50,000 of you can earn a T-shirt (compared with 30,000 in 2017).
+
+* Create an account on GitHub: [Github](https://github.com);
+* Follow the event to account for each of the contributions: [Hacktoberfest](https://hacktoberfest.digitalocean.com/);
+* You need to know how Git works: [GitHub](https://help.github.com/) , [Digital Ocean](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) .
+
+### Maintaining a repo?
+
+Create issues or add to existing ones the label “Hacktoberfest” on your GitHub projects to help new contributors know what to work on. Tag any spam or irrelevant PRs with the "invalid" label to disqualify them.
+
+### How do I track my progress?
+
+Log in with your GitHub account at https://hacktoberfest.digitalocean.com/ to check your progress and stats.
+
+### I completed 5 PRs. When will I receive my t-shirt?
+
+We will start sending out emails with more details on redeeming t-shirts throughout the month. Stay tuned!
+
+### How do I get stickers?
+
+Stickers are included with your t-shirt, once you complete 5 PRs.
+
+### What happens if I complete fewer than 5 PRs by the end of the month?
+
+Unfortunately you will have to submit at least 5 PRs in order to get a T-shirt
+
+### 🏃🏃🏃 Completions
+
+Quality Standards
+In line with Hacktoberfest value #2 (Quantity is fun, Quality is key), we have provided examples of the quality standards we encourage. This applies mainly to beginners.
+
+- PRs that are automated e.g. scripted opening PRs to remove whitespace / optimize images.
+- PRs that are disruptive e.g. taking someone else's branch/commits and making a PR.
+- PRs that are regarded by a project maintainer as a hindrance vs. helping.
+
+Something that's clearly an attempt to simply +1 your PR count for October.
+Last but not least, one PR to fix a typo is fine. 5 PRs to remove a stray whitespace... not cool.
 
 ## 🕯 About
 
 As a means of encouraging participation during Hacktoberfest 2018, this project targets those relatively new to the open source ecosystem and programming in general, but are eager to learn and improve their creative skills by contributing to projects on GitHub.
 
-By creating issues that require easy to complete tasks, we are providing a platform where beginners can readily join the open source movement without being overwhelmed with the restrictions and complexities that plague already established open source projects. We hope that contributors will continue to  confidence as they continue to contribute to this project.
+By creating issues that require easy to complete tasks, we are providing a platform where beginners can readily join the open source movement without being overwhelmed with the restrictions and complexities they may encounter when trying to contribute to already established open source projects. We hope that new contributors can steadily grow confident while gaining hands-on experience as they continue to contribute to projects like this.
 
 Welcome to the world of Open Source.
 
@@ -24,33 +75,6 @@ Fork this repository and get started.
 * Project maintainers will be in charge of monitoring issues, reviewing submitted patches and merging pull requests.
 * Member contributors will be responsible for collaborating with external contributors to tackle project issues and submit patches via pull requests.
 * Please update this readme as needed.
-
-## 💡 What Is Hacktoberfest
-
-Hacktoberfest is an event celebrated in October by Github and DigitalOcean based on the German festivity Oktoberfest.
-The main purpose of this event is to stimulate open source contributions on Github by rewarding users tha participate with at least 5 Pull Requests with a T-Shirt.
-
-### 😄 Participation Details
-
-Hacktoberfest is open to everyone in our global community. Whether you’re a seasoned contributor or looking for projects to contribute to for the first time, you’re welcome to participate.
-Pull requests can be made in any GitHub-hosted repositories/projects. As long as the project is public and GitHub-hosted, your PRs will count towards your participation
-You can sign up anytime between October 1 and October 31. Just be sure to sign up on the official Hacktoberfest website for your PRs to count.
-
-### ❇️❇️❇️ Participation Rules
-
-To get a shirt, you must make five pull requests (PRs) between October 1–31 in any timezone. PRs can be to any public repo on GitHub, not just the ones highlighted. The PR must contain commits you made yourself. PRs reported by maintainers as spam or that are automated will be marked as invalid and won’t count towards the shirt. This year, the first 50,000 of you can earn a T-shirt (compared with 30,000 in 2017).
-
-### 🏃🏃🏃 Completions
-
-Quality Standards
-In line with Hacktoberfest value #2 (Quantity is fun, Quality is key), we have provided examples of the quality standards we encourage. This applies mainly to beginners.
-
-- PRs that are automated e.g. scripted opening PRs to remove whitespace / optimize images.
-- PRs that are disruptive e.g. taking someone else's branch/commits and making a PR.
-- PRs that are regarded by a project maintainer as a hindrance vs. helping.
-
-Something that's clearly an attempt to simply +1 your PR count for October.
-Last but not least, one PR to fix a typo is fine. 5 PRs to remove a stray whitespace... not cool.
 
 ### Prerequisites
 
